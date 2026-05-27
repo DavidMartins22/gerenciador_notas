@@ -1,7 +1,3 @@
-# ==========================================
-# --- README.md ---
-# ==========================================
-
 # Sistema de Gerenciamento de Notas
 
 ## Descrição do Projeto
