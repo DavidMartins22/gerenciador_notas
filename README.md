@@ -31,9 +31,9 @@ O objetivo principal do projeto é aplicar conceitos fundamentais de programaç�
 1. Abra o terminal na pasta do projeto.
 
 2. Execute o arquivo principal com o comando:
-
+```bash
 python gerenciador_notas.py
-
+```
 3. O sistema exibirá os relatórios e informações dos estudantes no terminal.
 
 ---
