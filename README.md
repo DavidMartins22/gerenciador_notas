@@ -43,9 +43,9 @@ python gerenciador_notas.py
 1. Abra o terminal na pasta do projeto.
 
 2. Execute o arquivo de testes com o comando:
-
+```bash
 python test_notas.py
-
+```
 3. Os testes verificarão se as funções de cálculo de média e aprovação estão funcionando corretamente.
 
 ---
